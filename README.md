@@ -4,30 +4,6 @@ A clean, responsive personal portfolio built with React and Tailwind CSS. The co
 
 ---
 
-## Repository Structure
-
-```text
-alex-waringa-portfolio/
-├── public/
-│   ├── favicon.ico
-│   └── assets/           # Images, logos, and downloadable resume
-├── src/
-│   ├── components/       # Reusable UI elements (Navbar, Footer, ProjectCard)
-│   ├── data/             # Static JSON data for projects, skills, and experience
-│   ├── pages/            # Main views (Home, Projects, About, Contact)
-│   ├── styles/           # Tailwind CSS configuration and global styles
-│   ├── App.jsx           # Root component and route definitions
-│   └── main.jsx          # Application entry point
-├── .eslintrc.json        # Linting rules
-├── .gitignore            # Ignored files and folders
-├── package.json          # Dependencies and scripts
-├── README.md             # Project documentation
-└── tailwind.config.js    # Tailwind CSS setup
-
-```
-
----
-
 ## Tech Stack
 
 * **Frontend:** React, Tailwind CSS, JavaScript (ES6+)
